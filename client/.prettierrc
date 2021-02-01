@@ -1,0 +1,6 @@
+{
+    "tailingComma" : "none",
+    "semi": false,
+    "singleQuote": true
+
+}
